@@ -69,7 +69,7 @@ public class Guitarra {
     System.out.println("Madeira: " + (minhaGuitarra.getMadeira()));
     System.out.println("Preço: " + (minhaGuitarra.getPreco()));
     System.out.println("Tipo: " + (minhaGuitarra.getTipo()));
-    System.out,println("Fabricante: " + (minhaGuitarra.getFabricante()));
+    System.out.println("Fabricante: " + (minhaGuitarra.getFabricante()));
     System.out.prinln("Modelo: " + (minhaGuitarra.getModelo()));
   }
                                                 
